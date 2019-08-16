@@ -9,3 +9,7 @@ The title of the webpage
 This is where information to be presented to the user is entered.
 </body>
 </html>
+<div style="float: left">
+This is where information to be presented to the user is entered.
+</div>
+<div style="float: right">
