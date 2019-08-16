@@ -6,11 +6,11 @@ The title of the webpage
 </head>
 <body>
 <h1>This is my Heading</h1>
-This is where information to be presented to the user is entered.
+hello claire is standing beside me say hiiiiiiiiiiiiiii
 </body>
 </html>
 <div style="float: left">
-This is where information to be presented to the user is entered.
+为什么我的人生这么无聊
 </div>
 <div style="float: right">
 This is where more information is located.
