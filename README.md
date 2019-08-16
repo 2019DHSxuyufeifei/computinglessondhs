@@ -19,4 +19,9 @@ This is where information to be presented to the user is entered.
 </p>
 </div>
 <div style="float: right; border: solid">
- 
+ <div style="float: left; bor: solid; border-color: #C12528; width: 400px;">
+<p>
+This is where information to be presented to the user is entered.
+</p>
+</div>
+<div style="float: right; border: solid; width: 400px;">
